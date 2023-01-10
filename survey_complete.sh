@@ -1,4 +1,4 @@
 #!/bin/bash
 
-EXAMCODE="silly fish boat quinoa 113817"
+EXAMCODE=https://classroom.github.com/a/icG2oERU
 echo ${EXAMCODE}
