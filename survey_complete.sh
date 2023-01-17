@@ -1,4 +1,4 @@
 #!/bin/bash
 
-EXAMCODE=silly fish boat quinoa 113817
+EXAMCODE="sillyfishboatquinoa113817"
 echo ${EXAMCODE}
